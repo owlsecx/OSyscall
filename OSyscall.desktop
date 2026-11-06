@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OSyscall
+Comment=Syscall reference + /proc syscall activity summary
+Exec=OSyscall
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCore;
+Keywords=OSyscall;owlsec;security;syscall;linux;proc;
